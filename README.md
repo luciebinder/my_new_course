@@ -1,6 +1,6 @@
 ![logo](lecture/static/logo.png)
 
-
+Link zu unserem Kurs: https://luciebinder.github.io/my_new_course/
 
 ## "What's in this repository?"
 
